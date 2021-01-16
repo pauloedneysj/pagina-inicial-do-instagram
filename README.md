@@ -1,4 +1,4 @@
-Oi, esse foi o resultado do projeto do meu curso no qual recriei a página do Instagram. Espero que gostem. =)
+Oi, esse foi o meu resultado no projeto do curso no qual recriei a página do Instagram. Espero que gostem. =)
 
 Esse repositório foi da aula de Flexbox, que tive na Digital Innovation One sobre como "Recriar a página do Instagram".
 
