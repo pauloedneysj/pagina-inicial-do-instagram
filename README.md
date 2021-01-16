@@ -1,11 +1,11 @@
-Oi, esse foi o resultado do meu projeto do meu curso no qual recriei a página do Instagram. Espero que gostem. =)
+Oi, esse foi o resultado do projeto do meu curso no qual recriei a pÃ¡gina do Instagram. Espero que gostem. =)
 
-Esse repositório foi da aula de Flexbox, que tive na Digital Innovation One sobre como "Recriar a página do Instagram".
+Esse repositÃ³rio foi da aula de Flexbox, que tive na Digital Innovation One sobre como "Recriar a pÃ¡gina do Instagram".
 
-### Os requisitos são:
+### Os requisitos sÃ£o:
 
-* HTML básico
-* CSS básico
+* HTML bÃ¡sico
+* CSS bÃ¡sico
 
 ##Contatos:
 
